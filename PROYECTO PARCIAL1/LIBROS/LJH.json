@@ -1,0 +1,12 @@
+{ 
+        "imagen": "PORTADAS/LJH.jpg", 
+        "titulo": "LOS JUEGOS DEL HAMBRE", 
+        "autor": "SUZANNE COLLINS", 
+        "genero": "NOVELA DISTÓPICA", 
+        "año": "2008", 
+        "editorial":"Scholastic", 
+        "sinopsis":"En un futuro distópico, Katniss Everdeen se ofrece como tributo para los Juegos del Hambre en lugar de su hermana. Los tributos deben luchar a muerte en un evento televisado. Katniss lucha por sobrevivir y desafiar al sistema opresivo del Capitolio.",
+        "criticas":"Es elogiado por su trama emocionante, mundo distópico convincente y personajes memorables. Se destaca por su exploración de temas profundos a través de una historia cautivadora.", 
+        "premios":"California Young Reader Medal y  Georgia Peach Book Award for Teen Readers",
+        "pags":"374"
+    }

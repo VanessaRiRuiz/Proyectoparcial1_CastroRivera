@@ -1,0 +1,12 @@
+{ 
+    "imagen": "PORTADAS/OYP.jpg", 
+    "titulo": "ORGULLO Y PREJUICIO", 
+    "autor": "JANE AUSTEN", 
+    "genero": "NOVELA CLÁSICA", 
+    "año": "1813", 
+    "editorial":"T. Egerton, Londres.", 
+    "sinopsis":"La historia sigue a Elizabeth Bennet mientras lidia con las expectativas sociales, el amor y los prejuicios en la Inglaterra del siglo XIX.",
+    "criticas":"Ha sido ampliamente elogiado por su caracterización, sátira social y estilo narrativo.", 
+    "premios":"No recibió premios en su momento, pero ha sido aclamado como una obra maestra de la literatura.",
+    "pags":"294"
+}

@@ -1,0 +1,13 @@
+{ 
+    "imagen": "PORTADAS/HP.jpg",  
+    "titulo": "HARRY POTTER", 
+    "autor": "J.K. ROWLING", 
+    "genero": "FANTASÍA", 
+    "año": "1997",
+    "editorial":"Bloomsbury.", 
+    "sinopsis":"La historia comienza con la presentación de Harry Potter, un niño huérfano que ha vivido una vida miserable con sus crueles tios y primo. ",
+    "criticas":"El libro recibió críticas en su mayoría positivas y fue elogiado por su imaginación, su capacidad para transportar a los lectores a un mundo mágico, y su narrativa atractiva y accesible para jóvenes lectores", 
+    "premios":" Fue el comienzo de una exitosa serie de siete libros que se convirtió en un fenómeno literario y cultural a nivel mundial.",
+    "pags":"350" 
+    
+}

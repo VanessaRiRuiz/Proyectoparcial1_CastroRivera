@@ -1,0 +1,12 @@
+{ 
+    "imagen": "PORTADAS/NEL.jpg", 
+    "titulo": "NOSOTROS EN LA LUNA", 
+    "autor": "ALICE KELLEN", 
+    "genero": "NOVELA ROMÁNTICA", 
+    "año": "2018", 
+    "editorial":"Titania.", 
+    "sinopsis":"La novela sigue la historia de Emma y Leo, dos personas con heridas del pasado que encuentran el amor mientras lidian con sus propios problemas.",
+    "criticas":"Ha sido elogiado por su enfoque en el desarrollo de personajes y las emociones.", 
+    "premios":"No ha recibido ningún premio",
+    "pags":"480" 
+}

@@ -1,0 +1,12 @@
+{ 
+        "imagen": "PORTADAS/SOL.jpg", 
+        "titulo": "SOLITARIO", 
+        "autor": "ALICE OSEMAN", 
+        "genero": "NOVELA JUVENIL", 
+        "año": "2022", 
+        "editorial":"HarperCollins Children's Books.", 
+        "sinopsis":"Sigue la historia de Tori Spring, una adolescente introvertida y cínica que prefiere pasar su tiempo escribiendo en su blog y evitando las interacciones sociales.",
+        "criticas":"Ha sido elogiada por su representación realista de la adolescencia, los desafíos de la comunicación en la era digital y el desarrollo del personaje principal.", 
+        "premios":"No ha recibido",
+        "pags":"304" 
+    }
